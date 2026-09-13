@@ -1,0 +1,16 @@
+{
+  "company": "AcmeCorp",
+  "industry": "Financial Services",
+  "profile_version": "1.0",
+  "assets": [
+    {"vendor": "qualcomm", "product": "sm8550p", "type": "firmware", "exposure": "internal"},
+    {"vendor": "qualcomm", "product": "snapdragon", "type": "firmware", "exposure": "internal"},
+    {"vendor": "apache", "product": "activemq", "type": "software", "exposure": "internet-facing"},
+    {"vendor": "apache", "product": "artemis", "type": "software", "exposure": "internet-facing"},
+    {"vendor": "tenda", "product": "f453", "type": "hardware", "exposure": "internal"},
+    {"vendor": "openwrt", "product": "openwrt", "type": "firmware", "exposure": "internet-facing"},
+    {"vendor": "ibm", "product": "infosphere", "type": "software", "exposure": "internal"},
+    {"vendor": "mediatek", "product": "software_development_kit", "type": "software", "exposure": "internal"},
+    {"vendor": "android", "product": "android", "type": "os", "exposure": "internal"}
+  ]
+}
